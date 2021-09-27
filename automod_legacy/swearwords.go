@@ -52,7 +52,7 @@ var BuiltinSwearWords = map[string]bool{
 	"pussy":       true,
 	"scrotum":     true,
 	"sex":         true,
-	"shit":        true,
+	"shit":        false,
 	"sh1t":        true,
 	"slut":        true,
 	"smegma":      true,
